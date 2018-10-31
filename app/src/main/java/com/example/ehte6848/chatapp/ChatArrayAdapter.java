@@ -69,3 +69,10 @@ public class ChatArrayAdapter extends ArrayAdapter<ChatMessage> {
     }
 }
 
+/* nklnfkpnpnqpfepqn npiqwinp
+weknf wjpo
+lkvnwnfdp
+nekf nwqpjdpwqjof [ojqw
+lkqenpqwopdjqpowf
+;n*/
+
